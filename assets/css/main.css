@@ -3353,6 +3353,7 @@
 
 	body.subpage {
 		padding-top: 3.125em;
+		background-color: lightgray;
 	}
 
 	@-moz-keyframes reveal-header {
@@ -3899,6 +3900,7 @@
 
 	#footer {
 		padding: 6em 2em 4em 2em;
+		background-color: lightgray;
 	}
 
 		#footer > .inner {
